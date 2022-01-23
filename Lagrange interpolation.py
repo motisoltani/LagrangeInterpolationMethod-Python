@@ -13,9 +13,9 @@ from numpy.polynomial.polynomial import Polynomial
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import *
 
-#Specifying X and Y values
+#Entering X and Y values
 
-x = list(input( 'Enter X = ' ))
+x = [0, 4, 8, 15]
 y = [0, 9.1, 25, 31]
 
 '''x =np.array([8.5, 10, 12], float)
